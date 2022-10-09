@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.write{
+  margin-right: 15px;
+  font-weight: 700;
+  font-size: large;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-color: blanchedalmond;
+}
+
+.click{
+  margin-left: 10px;
+}
